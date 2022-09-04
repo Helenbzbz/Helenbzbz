@@ -7,4 +7,6 @@
 * 🍳 I took 40 hours+ cooking, baking, and pastery classes
 
 ## Tool Kits
-<img src="https://badges.aleen42.com/src/javascript.svg" alt="badge"/><br /><img src="https://badges.aleen42.com/src/photoshop.svg" alt="badge"/> 
+<img src="https://badges.aleen42.com/src/javascript.svg" alt="badge"/><img src="https://badges.aleen42.com/src/photoshop.svg" alt="badge"/><img src="https://badges.aleen42.com/src/python.svg" alt="badge"/><img src="https://badges.aleen42.com/src/microsoft.svg" alt="badge"/> <img src="https://badges.aleen42.com/src/hive.svg" alt="badge"/> <img src="https://badges.aleen42.com/src/googlecloud.svg" alt="badge"/> <img src="https://badges.aleen42.com/src/ApacheHadoop.svg" alt="badge"/> 
+
+ 

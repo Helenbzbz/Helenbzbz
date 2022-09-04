@@ -7,5 +7,5 @@
 * 🍳 I took 40 hours+ cooking, baking, and pastery classes
 
 ## Tool Kits
-[![My Skills](https://skills.thijs.gg/icons?i=aws,flask,gcp,github,html,js,linux,md,matlab,mongodb,mysql,ps,py,r&perline=5)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=aws,flask,gcp,github,html,js,linux,md,matlab,mongodb,mysql,ps,py,r&perline=10)](https://skills.thijs.gg)
  

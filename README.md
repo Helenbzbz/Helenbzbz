@@ -12,7 +12,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenbzbz&theme=" /> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Helenbzbz?cardType=github&theme=flag-brazil)](https://git.io/awesome-stats-card)
 
 ### Recent Projects
-* 🍓**Northwestern Data Engineering Project** <br>
+* 🍓**Data Engineering Project with Northwestern Univeristy** <br>
   Data Streaming, Pub/Sub, Data Flow, Big Queries, Google Cloud, Python <br> https://github.com/Helenbzbz/Northwestern-Data-Engineering-Class/tree/main/Data%20Engineering%20Final%20Project
 
 * 🍊**NLP Project** <br>

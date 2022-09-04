@@ -7,6 +7,5 @@
 * 🍳 I took 40 hours+ cooking, baking, and pastery classes
 
 ## Tool Kits
-<img src="https://badges.aleen42.com/src/javascript.svg" alt="badge"/>     <img src="https://badges.aleen42.com/src/photoshop.svg" alt="badge"/>     <img src="https://badges.aleen42.com/src/python.svg" alt="badge"/>     <img src="https://badges.aleen42.com/src/microsoftexcel.svg" alt="badge"/> <img src="https://badges.aleen42.com/src/hive.svg" alt="badge"/> <img src="https://badges.aleen42.com/src/google cloud.svg" alt="badge"/> <img src="https://badges.aleen42.com/src/apachehadoop.svg" alt="badge"/> 
-
+[![My Skills](https://skills.thijs.gg/icons?i=aws,flask,gcp,github,html,js,linux,md,matlab,mongodb,mysql,ps,py,r&perline=5)](https://skills.thijs.gg)
  

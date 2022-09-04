@@ -12,18 +12,18 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenbzbz&theme=" /> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Helenbzbz?cardType=github&theme=flag-brazil)](https://git.io/awesome-stats-card)
 
 ### Recent Projects
-* 🍓*Northwestern Data Engineering Project*: <br>
+* 🍓**Northwestern Data Engineering Project** <br>
   Data Streaming, Pub/Sub, Data Flow, Big Queries, Google Cloud, Python <br> https://github.com/Helenbzbz/Northwestern-Data-Engineering-Class/tree/main/Data%20Engineering%20Final%20Project
 
-* 🍊*NLP Project*: <br>
+* 🍊**NLP Project** <br>
   It requests information directly from IMDB json data and Wikipedia data 📣 about a movie name input and then analyze the Wiki description, IMDB reviews, and IMDB movie information🎶 <br>
 https://github.com/Helenbzbz/API-JSON-NLP-Project
 
-* 🍋*WebAPP Project: <br>
+* 🍋**WebAPP Project** <br>
   Takes an input of a location name and returns the name of the nearest MTBA station and whether this station is wheelchair accessible <br>
 https://github.com/Helenbzbz/WebApp-MBTA
 
-* 🌰*Web-Game Project*: <br>
+* 🌰**Web-Game Project** <br>
   An interactive word games utilizing html and flask. By answering just 11 questions, the website will tell you how long you can survive when zombie 🧟‍♂️ attacks the town you lived.<br>
 https://github.com/Helenbzbz/Web-Game-Project
 

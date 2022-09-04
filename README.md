@@ -9,5 +9,4 @@
 ## Tool Kits
 [![My Skills](https://skills.thijs.gg/icons?i=aws,flask,gcp,github,html,js,linux,md,matlab,mongodb,mysql,ps,py,r)](https://skills.thijs.gg)
  
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenbzbz&theme=" /> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Helenbzbz?cardType=github&theme=flag-brazil)](https://git.io/awesome-stats-card)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenbzbz&theme=" /> [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Helenbzbz?cardType=github&theme=flag-brazil)](https://git.io/awesome-stats-card)

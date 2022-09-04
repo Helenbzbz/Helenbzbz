@@ -10,4 +10,4 @@
 [![My Skills](https://skills.thijs.gg/icons?i=aws,flask,gcp,github,html,js,linux,md,matlab,mongodb,mysql,ps,py,r)](https://skills.thijs.gg)
  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Helenbzbz>&theme=" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenbzbz&theme=" />

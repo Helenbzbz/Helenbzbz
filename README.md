@@ -20,12 +20,13 @@
   Built and trained Neural Graph Collaborative Filtering (NGCF) model on 2 graph-structured datasets (Movie-Lens 100K & IMDB) by PyTorch and PyGeometric to predict viewers’ and actors’ preferences on movies (best model MSE 0.825 ± 0.024) <br>
 https://github.com/Helenbzbz/Deep-Learning-Final-Project/blob/main/Deep_Learning_Final_Report_Helen_Zheng.pdf
 
+* 🌰 **Traffic Monitoring Project** <br>
+  Employed Transfer Learning on TensorFlow EfficientNetB0 and tuned hyperparameters for dense, batch normalization, and
+dropout layers using Keras to develop a Traffic Monitor computer vision model capable of labeling 7 traffic objects <br>
+https://github.com/Helenbzbz/trafficmonitoring
+
 * 🍓**Data Engineering Project with Northwestern Univeristy** <br>
   Data Streaming, Pub/Sub, Data Flow, Big Queries, Google Cloud, Python <br> https://github.com/Helenbzbz/Northwestern-Data-Engineering-Class/tree/main/Data%20Engineering%20Final%20Project
-
-* 🌰**Web-Game Project** <br>
-  An interactive word games utilizing html and flask. By answering just 11 questions, the website will tell you how long you can survive when zombie 🧟‍♂️ attacks the town you lived.<br>
-https://github.com/Helenbzbz/Web-Game-Project
 
 ### Coding Exercises
 * Codingbat (Python): https://github.com/Helenbzbz/CodingBat-Practice
